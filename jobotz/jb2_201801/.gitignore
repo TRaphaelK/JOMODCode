@@ -1,0 +1,4 @@
+*.jar
+*.class
+*.nps
+/dist/
