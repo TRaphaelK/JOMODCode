@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment/>
+<entry key="org.netbeans.modules.profiler.v2.features.MethodsFeature_SelectedMethodsMode_SELECTION_FLAG">jb2.util.Octree,getContained,(Ljb2/math/BoundingBox;Ljb2/util/IntList;)Ljb2/util/IntList; jb2.util.EntityOctree,getContained,(Ljb2/math/BoundingBox;Ljb2/util/IntList;)Ljb2/util/IntList; </entry>
+<entry key="ACTIVATED_FEATURES">#org.netbeans.modules.profiler.v2.features.MethodsFeature@</entry>
+<entry key="org.netbeans.modules.profiler.v2.features.MethodsFeature_SETTINGS_FLAG">true</entry>
+<entry key="org.netbeans.modules.profiler.v2.features.MethodsFeature_MODE_FLAG">SelectedMethodsMode</entry>
+<entry key="org.netbeans.modules.profiler.v2.features.MethodsFeature_SelectedClassesMode_SELECTION_FLAG">jb2.util.Octree,*, </entry>
+<entry key="SINGLE_FEATURE">false</entry>
+</properties>

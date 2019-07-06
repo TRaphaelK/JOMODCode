@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment></comment>
+<entry key="profiler.settings.sampling.interval">10</entry>
+<entry key="profiler.settings.thread.cpu.timer.on">false</entry>
+<entry key="profiler.settings.obj.alloc.stack.sampling.interval">10</entry>
+<entry key="profiler.settings.run.gc.on.get.results.in.memory.profiling">true</entry>
+<entry key="profiler.settings.instrumentation.filter.selected">Exclude lwjgl</entry>
+<entry key="profiler.settings.override">false</entry>
+<entry key="profiler.settings.instrument.spawned.threads">false</entry>
+<entry key="profiler.settings.sort.results.by.thread.cpu.time">false</entry>
+<entry key="profiler.settings.code.region.cpu.res.buf.size">1000</entry>
+<entry key="profiler.settings.n.profiled.threads.limit">32</entry>
+<entry key="profiler.settings.cpu.exclude.wait.time">true</entry>
+<entry key="profiler.settings.instrumentation.quickfilter.type">false</entry>
+<entry key="profiler.settings.threads.monitoring.enabled">false</entry>
+<entry key="profiler.settings.instrument.method.invoke">true</entry>
+<entry key="profiler.settings.instrumentation.quickfilter.value"></entry>
+<entry key="profiler.settings.obj.alloc.stack.sampling.depth">0</entry>
+<entry key="profiler.settings.settings.name">main loop</entry>
+<entry key="profiler.settings.override.working.dir"></entry>
+<entry key="profiler.settings.istrumentation.root.methods-1">demoviewer.DemoBaseGame,render,(F)V</entry>
+<entry key="profiler.settings.istrumentation.root.methods-0">demoviewer.DemoBaseGame,update,(F)V</entry>
+<entry key="profiler.settings.instrumentation.root.methods.size">2</entry>
+<entry key="profiler.settings.instrument.empty.methods">false</entry>
+<entry key="profiler.settings.istrument.getter.setter.methods">false</entry>
+<entry key="profiler.settings.cpu.profiling.type">1</entry>
+<entry key="profiler.settings.instr.scheme">1</entry>
+<entry key="profiler.settings.profiling.type">16</entry>
+<entry key="profiler.settings.override.jvm.args"></entry>
+</properties>
